@@ -8,7 +8,7 @@
 [CMIRNet: Cross-Modal Interactive Reasoning Network for Referring Image Segmentation](https://ieeexplore.ieee.org/document/10771801) \\
 **Mingzhu Xu**, Tianxiang Xiao, Yutong Liu, Haoyu Tang, Yupeng Hu, and Liqiang Nie.
 
-[![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code)](https://github.com/iLearn-Lab/TCSVT25-CMIRNet) 
+[![](https://github.com/aimetu/icons/blob/main/logo/githublogo.png)](https://github.com/iLearn-Lab/TCSVT25-CMIRNet) 
 </div>
 </div>
 
@@ -31,7 +31,7 @@
 [HDNet: A Hybrid Domain Network with Multi-Scale High-Frequency Information Enhancement for Infrared Small Target Detection](https://ieeexplore.ieee.org/document/11017756) \\
 **Mingzhu Xu**, Chenglong Yu, Zexuan Li, Haoyu Tang, Yupeng Hu, Liqiang Nie.
 
-[![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code)](https://github.com/iLearn-Lab/TGRS25-HDNet) 
+[![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code)](https://github.com/iLearn-Lab/TGRS25-HDNet)
 </div>
 </div>
 
