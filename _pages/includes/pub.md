@@ -8,7 +8,7 @@
 [CMIRNet: Cross-Modal Interactive Reasoning Network for Referring Image Segmentation](https://ieeexplore.ieee.org/document/10771801) \\
 **Mingzhu Xu**, Tianxiang Xiao, Yutong Liu, Haoyu Tang, Yupeng Hu, and Liqiang Nie.
 
-[![](https://github.com/aimetu/icons/blob/main/logo/githublogo.png)](https://github.com/iLearn-Lab/TCSVT25-CMIRNet) 
+[![](images/CMIRNet.png)](https://github.com/iLearn-Lab/TCSVT25-CMIRNet) 
 </div>
 </div>
 
