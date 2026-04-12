@@ -12,9 +12,6 @@
 </div>
 </div>
 
-<div style="background-color:#007BFF; color:white; padding:10px; border-radius:5px;">
-<strong>ICME 2024:</strong> [Two-Stage Information Bottleneck For Temporal Language Grounding](https://ieeexplore.ieee.org/abstract/document/10687358), Haoyu Tang, Shuaike Zhang, Ming Yan, Ji Zhang, **Mingzhu Xu***, Yupeng Hu*, Liqiang Nie.
-</div>
 
 > [!ICME 2024] [Two-Stage Information Bottleneck For Temporal Language Grounding](https://ieeexplore.ieee.org/abstract/document/10687358), Haoyu Tang, Shuaike Zhang, Ming Yan, Ji Zhang, **Mingzhu Xu***, Yupeng Hu*, Liqiang Nie.
 
