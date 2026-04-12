@@ -124,4 +124,14 @@ Lina Gao, Ping Fu, **Mingzhu Xu**, Tiantian Wang, Bing Liu.
 - `TIP 2021` [Multi-Stream Attention-Aware Graph Convolution Network for Video Salient Object Detection](https://ieeexplore.ieee.org/document/9397307), **Mingzhu Xu**, Ping Fu, Bing Liu, Junbao Li.
 - `TCSVT 2020` [Video Salient Object Detection via Robust Seeds Extraction and Multi-graphs Manifold Propagation](https://ieeexplore.ieee.org/document/8730352), **Mingzhu Xu**, Bing Liu, Ping Fu, Junbao Li, Yu Hen Hu, Shou Feng.
 - `TMM 2019` [Video Saliency Detection via Graph Clustering With Motion Energy and Spatiotemporal Objectness](https://ieeexplore.ieee.org/document/8705313), **Mingzhu Xu**, Bing Liu, Ping Fu, Junbao Li, Yu Hen Hu.
-- `APIN 2021` [A Novel Dynamic Graph Evolution Network for Salient Object Detection](https://link.springer.com/article/10.1007/s10489-021-02479-z), **Mingzhu Xu**, Ping Fu, Bing Liu, Hongtao Yin, Junbao Li.
+- `APIN 2022` [A Novel Dynamic Graph Evolution Network for Salient Object Detection](https://link.springer.com/article/10.1007/s10489-021-02479-z), **Mingzhu Xu**, Ping Fu, Bing Liu, Hongtao Yin, Junbao Li.
+- `PR 2024` [TSVT: Token Sparsification Vision Transformer for robust RGB-D salient object detection](https://www.sciencedirect.com/science/article/abs/pii/S0031320323008877), Lina Gao, Bing Liu, Ping Fu, **Mingzhu Xu**.
+- `APIN 2022` [A novel spatiotemporal attention enhanced discriminative network for video salient object detection](https://link.springer.com/article/10.1007/s10489-021-02649-z), Bing Liu, Kezhou Mu, **Mingzhu Xu**, Fangyuan Wang, Lei Feng.
+- `NP 2023` [Depth-aware inverted refinement network for RGB-D salient object detection](https://www.sciencedirect.com/science/article/abs/pii/S0925231222014126), Lina Gao, Bing Liu, Ping Fu, **Mingzhu Xu**.
+
+
+## 🎙 Others
+- `CVPR 2025` [Towards stable and storage-efficient dataset distillation: Matching convexified trajectory](https://openaccess.thecvf.com/content/CVPR2025/html/Zhong_Towards_Stable_and_Storage-efficient_Dataset_Distillation_Matching_Convexified_Trajectory_CVPR_2025_paper.html), Wenliang Zhong, Haoyu Tang, Qinghai Zheng, **Mingzhu Xu**, Yupeng Hu, Weili Guan.
+- `InFu 2024` [Listen as you wish: Fusion of audio and text for cross-modal event detection in smart cities](https://www.sciencedirect.com/science/article/abs/pii/S1566253524002380), Haoyu Tang, Yupeng Hu, Yunxiao Wang, Shuaike Zhang, **Mingzhu Xu**, Jihua Zhu, Qinghai Zheng.
+- `TITS 2023` [Saliency-induced moving object detection for robust RGB-D vision navigation under complex dynamic environments](https://ieeexplore.ieee.org/abstract/document/10128804), Chao Sun, Xing Wu, Jia Sun, Changyin Sun, **Mingzhu Xu**, Quanbo Ge.
+- `APIN 2022` [Visual tracking via dynamic saliency discriminative correlation filter](https://link.springer.com/article/10.1007/s10489-021-02260-2), Lina Gao, Bing Liu, Ping Fu, **Mingzhu Xu**, Junbao Li.
