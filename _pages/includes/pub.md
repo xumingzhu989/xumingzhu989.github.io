@@ -130,9 +130,9 @@ Lina Gao, Ping Fu, **Mingzhu Xu**, Tiantian Wang, Bing Liu.
 - `APIN 2022` [A Novel Dynamic Graph Evolution Network for Salient Object Detection](https://link.springer.com/article/10.1007/s10489-021-02479-z), **Mingzhu Xu**, Ping Fu, Bing Liu, Hongtao Yin, Junbao Li.
 - `TIM 2025` [Self-Supervised Pre-training with Multi-modality Representation Enhancement for Salient Object Detection in RGB-D Images](https://ieeexplore.ieee.org/abstract/document/10909241), Lina Gao, Bing Liu, Ping Fu, **Mingzhu Xu**, Yonggang Zhang, Yulong Huang.
 - `PR 2024` [TSVT: Token Sparsification Vision Transformer for robust RGB-D salient object detection](https://www.sciencedirect.com/science/article/abs/pii/S0031320323008877), Lina Gao, Bing Liu, Ping Fu, **Mingzhu Xu**.
-- `APIN 2022` [A novel spatiotemporal attention enhanced discriminative network for video salient object detection](https://link.springer.com/article/10.1007/s10489-021-02649-z), Bing Liu, Kezhou Mu, **Mingzhu Xu**, Fangyuan Wang, Lei Feng.
 - `NP 2023` [Depth-aware inverted refinement network for RGB-D salient object detection](https://www.sciencedirect.com/science/article/abs/pii/S0925231222014126), Lina Gao, Bing Liu, Ping Fu, **Mingzhu Xu**.
 - `电子与信息学报 2023` [Salient Object Detection Based on Multiple Graph Neural Networks Collaborative Learning](https://jeit.ac.cn/en/article/doi/10.11999/JEIT220706?viewType=HTML), Bing LIU, Tiantian WANG, Lina GAO, **Mingzhu XU**, Ping FU.
+- `APIN 2022` [A novel spatiotemporal attention enhanced discriminative network for video salient object detection](https://link.springer.com/article/10.1007/s10489-021-02649-z), Bing Liu, Kezhou Mu, **Mingzhu Xu**, Fangyuan Wang, Lei Feng.
 - `ICIP 2021` [Co-saliency detection via unified hierarchical graph neural network with geometric attention](https://ieeexplore.ieee.org/abstract/document/9506378), Jiaqing Qiao, Shaowei Sun, **Mingzhu Xu**, Yongqiang Li, Bing Liu.
 
 ## 🎙 Others
