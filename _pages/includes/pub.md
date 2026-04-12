@@ -99,8 +99,7 @@ Lina Gao, Ping Fu, **Mingzhu Xu**, Tiantian Wang, Bing Liu.
 </div>
 </div>
 
-- <span class="badge">TIP 2021</span>
-[Multi-Stream Attention-Aware Graph Convolution Network for Video Salient Object Detection](https://ieeexplore.ieee.org/document/9397307), **Mingzhu Xu**, Ping Fu, Bing Liu, Junbao Li.
-- ``TCSVT 2020`` [Video Salient Object Detection via Robust Seeds Extraction and Multi-graphs Manifold Propagation](https://ieeexplore.ieee.org/document/8730352), **Mingzhu Xu**, Bing Liu, Ping Fu, Junbao Li, Yu Hen Hu, Shou Feng.
+- `TIP 2021` [Multi-Stream Attention-Aware Graph Convolution Network for Video Salient Object Detection](https://ieeexplore.ieee.org/document/9397307), **Mingzhu Xu**, Ping Fu, Bing Liu, Junbao Li.
+- `TCSVT 2020` [Video Salient Object Detection via Robust Seeds Extraction and Multi-graphs Manifold Propagation](https://ieeexplore.ieee.org/document/8730352), **Mingzhu Xu**, Bing Liu, Ping Fu, Junbao Li, Yu Hen Hu, Shou Feng.
 - `TMM 2019` [Video Saliency Detection via Graph Clustering With Motion Energy and Spatiotemporal Objectness](https://ieeexplore.ieee.org/document/8705313), **Mingzhu Xu**, Bing Liu, Ping Fu, Junbao Li, Yu Hen Hu.
 - `APIN 2021` [A Novel Dynamic Graph Evolution Network for Salient Object Detection](https://link.springer.com/article/10.1007/s10489-021-02479-z), **Mingzhu Xu**, Ping Fu, Bing Liu, Hongtao Yin, Junbao Li.
