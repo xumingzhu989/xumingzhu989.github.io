@@ -10,7 +10,7 @@
 **Mingzhu Xu**, Sen Wang, Yupeng Hu, Haoyu Tang, Runmin Cong, Liqiang Nie.
 
 [**Project**](https://github.com/iLearn-Lab/TCYB25-CMNFNet) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-
+[![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)](https://github.com/iLearn-Lab/TCYB25-CMNFNet) 
 </div>
 </div>
 
