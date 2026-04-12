@@ -4,10 +4,10 @@
 - **2009.09 - 2013.07**, Harbin Institute of Technology, B.S. in Engineering.
 
 # 🎓 Academic Service
-- 🧑‍⚖️ **Guest Editors:** Electronics  
-- 📝 **Reviewer:** IEEE TPAMI, TIP, TCYB, TMM, TKDE, TCSVT, TGRS, TITS, TIM  
-- ✍️ **PC Member:** CVPR, ICCV, ECCV, ICML, ICLR, ACM MM, AAAI, IJCAI
-- 🏛️ **Conference Service:** Session Chair, Area Chair
+- 🧑‍⚖️ **Guest Editors:** Electronics, ...
+- 📝 **Reviewer:** IEEE TPAMI, TIP, TCYB, TMM, TKDE, TCSVT, TGRS, TITS, TIM, ...
+- ✍️ **PC Member:** CVPR, ICCV, ECCV, ICML, ICLR, ACM MM, AAAI, IJCAI, ...
+- 🏛️ **Conference Service:** Session Chair, Area Chair, ...
 
 # 💬 Invited Talks
 
