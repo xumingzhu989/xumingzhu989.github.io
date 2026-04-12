@@ -55,6 +55,28 @@ Xiangyu Zeng, **Mingzhu Xu***, Yijun Hu, Haoyu Tang, Yupeng Hu, and Liqiang Nie.
 </div>
 </div>
 
+## 🎙 Superpixel Segmentation & semantic segmentation
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/CMIRNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Superpixel Segmentation With Edge Guided Local-Global Attention Network](https://ieeexplore.ieee.org/abstract/document/11075729) \\
+**Mingzhu Xu**, Zhengyu Sun, Yijun Hu, Haoyu Tang, Yupeng Hu, Xuemeng Song, Liqiang Nie.
+
+[![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code)](https://github.com/iLearn-Lab/TCSVT25-ELGANet) 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMR 2025</div><img src='images/HMKD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Heterogeneous Model Knowledge Distillation via Dual Alignment for Semantic Segmentation](https://dl.acm.org/doi/abs/10.1145/3731715.3733354) \\
+**Mingzhu Xu**, Jing Wang, Mingcai Wang, Yiping Li, Yupeng Hu, Xuemeng Song, Weili Guan.
+
+[![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code)](https://github.com/iLearn-Lab/ICMR25-HMKD) 
+</div>
+</div>
+
 - `ACL Findings 2025` [Chain-Talker: Chain Understanding and Rendering for Empathetic Conversational Speech Synthesis](https://aclanthology.org/2025.findings-acl.101/), Yifan Hu, Rui Liu, **Yi Ren**, Xiang Yin, Haizhou Li
 - `arXiv 2025` [MegaTTS 3: Sparse Alignment Enhanced Latent Diffusion Transformer for Zero-Shot Speech Synthesis](https://arxiv.org/abs/2502.18924), Ziyue Jiang, **Yi Ren**, et al.
 - `ACM-MM 2024` [Generative Expressive Conversational Speech Synthesis](https://dl.acm.org/doi/abs/10.1145/3664647.3681697), Rui Liu, Yifan Hu, **Yi Ren**, Xiang Yin, Haizhou Li
