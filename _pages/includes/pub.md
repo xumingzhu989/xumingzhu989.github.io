@@ -55,7 +55,7 @@ Xiangyu Zeng, **Mingzhu Xu***, Yijun Hu, Haoyu Tang, Yupeng Hu, and Liqiang Nie.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/AESINet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/ASTTNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adaptive Spatial Tokenization Transformer for Salient Object Detection in Optical Remote Sensing Images](https://ieeexplore.ieee.org/document/10038723) \\
