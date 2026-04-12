@@ -12,7 +12,10 @@
 </div>
 </div>
 
+- `ICME 2024` [Two-Stage Information Bottleneck For Temporal Language Grounding](https://ieeexplore.ieee.org/abstract/document/10687358), Haoyu Tang, Shuaike Zhang, Ming Yan, Ji Zhang, **Mingzhu Xu***, Yupeng Hu*, Liqiang Nie.
+
 ## 🎙 Multimedia Information Retrieval (MIR)
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS 2025</div><img src='images/CIR-Survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -125,13 +128,20 @@ Lina Gao, Ping Fu, **Mingzhu Xu**, Tiantian Wang, Bing Liu.
 - `TCSVT 2020` [Video Salient Object Detection via Robust Seeds Extraction and Multi-graphs Manifold Propagation](https://ieeexplore.ieee.org/document/8730352), **Mingzhu Xu**, Bing Liu, Ping Fu, Junbao Li, Yu Hen Hu, Shou Feng.
 - `TMM 2019` [Video Saliency Detection via Graph Clustering With Motion Energy and Spatiotemporal Objectness](https://ieeexplore.ieee.org/document/8705313), **Mingzhu Xu**, Bing Liu, Ping Fu, Junbao Li, Yu Hen Hu.
 - `APIN 2022` [A Novel Dynamic Graph Evolution Network for Salient Object Detection](https://link.springer.com/article/10.1007/s10489-021-02479-z), **Mingzhu Xu**, Ping Fu, Bing Liu, Hongtao Yin, Junbao Li.
+- `TIM 2025` [Self-Supervised Pre-training with Multi-modality Representation Enhancement for Salient Object Detection in RGB-D Images](https://ieeexplore.ieee.org/abstract/document/10909241), Lina Gao, Bing Liu, Ping Fu, **Mingzhu Xu**, Yonggang Zhang, Yulong Huang.
 - `PR 2024` [TSVT: Token Sparsification Vision Transformer for robust RGB-D salient object detection](https://www.sciencedirect.com/science/article/abs/pii/S0031320323008877), Lina Gao, Bing Liu, Ping Fu, **Mingzhu Xu**.
 - `APIN 2022` [A novel spatiotemporal attention enhanced discriminative network for video salient object detection](https://link.springer.com/article/10.1007/s10489-021-02649-z), Bing Liu, Kezhou Mu, **Mingzhu Xu**, Fangyuan Wang, Lei Feng.
 - `NP 2023` [Depth-aware inverted refinement network for RGB-D salient object detection](https://www.sciencedirect.com/science/article/abs/pii/S0925231222014126), Lina Gao, Bing Liu, Ping Fu, **Mingzhu Xu**.
-
+- `电子与信息学报 2023` [Salient Object Detection Based on Multiple Graph Neural Networks Collaborative Learning](https://jeit.ac.cn/en/article/doi/10.11999/JEIT220706?viewType=HTML), Bing LIU, Tiantian WANG, Lina GAO, **Mingzhu XU**, Ping FU.
+- `ICIP 2021` [Co-saliency detection via unified hierarchical graph neural network with geometric attention](https://ieeexplore.ieee.org/abstract/document/9506378), Jiaqing Qiao, Shaowei Sun, **Mingzhu Xu**, Yongqiang Li, Bing Liu.
 
 ## 🎙 Others
 - `CVPR 2025` [Towards stable and storage-efficient dataset distillation: Matching convexified trajectory](https://openaccess.thecvf.com/content/CVPR2025/html/Zhong_Towards_Stable_and_Storage-efficient_Dataset_Distillation_Matching_Convexified_Trajectory_CVPR_2025_paper.html), Wenliang Zhong, Haoyu Tang, Qinghai Zheng, **Mingzhu Xu**, Yupeng Hu, Weili Guan.
+- `MM 2024` [Revisiting unsupervised temporal action localization: The primacy of high-quality actionness and pseudolabels](https://dl.acm.org/doi/abs/10.1145/3664647.3681197), Han Jiang, Haoyu Tang, Ming Yan, Ji Zhang, **Mingzhu Xu**, Yupeng Hu, Jihua Zhu, Liqiang Nie.
+- `AAAI 2024` [Exploiting the social-like prior in transformer for visual reasoning](https://ojs.aaai.org/index.php/AAAI/article/view/27977), Yudong Han, Yupeng Hu, Xuemeng Song, Haoyu Tang, **Mingzhu Xu**, Liqiang Nie.
 - `InFu 2024` [Listen as you wish: Fusion of audio and text for cross-modal event detection in smart cities](https://www.sciencedirect.com/science/article/abs/pii/S1566253524002380), Haoyu Tang, Yupeng Hu, Yunxiao Wang, Shuaike Zhang, **Mingzhu Xu**, Jihua Zhu, Qinghai Zheng.
+- `IJCAI 2024` [Breaking Barriers of System Heterogeneity: Straggler-Tolerant Multimodal Federated Learning via Knowledge Distillation.](https://dl.acm.org/doi/abs/10.24963/ijcai.2024/419), Jinqian Chen, Haoyu Tang, Junhao Cheng, Ming Yan, Ji Zhang, **Mingzhu Xu**, Yupeng Hu, Liqiang Nie.
 - `TITS 2023` [Saliency-induced moving object detection for robust RGB-D vision navigation under complex dynamic environments](https://ieeexplore.ieee.org/abstract/document/10128804), Chao Sun, Xing Wu, Jia Sun, Changyin Sun, **Mingzhu Xu**, Quanbo Ge.
+- `NCAA 2023` [CoGCN: co-occurring item-aware GCN for recommendation](https://link.springer.com/article/10.1007/s00521-023-08703-w), Xinxiao Zhao, Fan Liu, Hao Liu, **Mingzhu Xu**, Haoyu Tang, Xueqing Li, Yupeng Hu.
 - `APIN 2022` [Visual tracking via dynamic saliency discriminative correlation filter](https://link.springer.com/article/10.1007/s10489-021-02260-2), Lina Gao, Bing Liu, Ping Fu, **Mingzhu Xu**, Junbao Li.
+- `Electronics 2019` [Research and Implementation of ε-SVR Training Method Based on FPGA](https://www.mdpi.com/2079-9292/8/9/919), Ruidong Wu, Bing Liu, Jiafeng Fu, **Mingzhu Xu**, Ping Fu, Junbao Li.
