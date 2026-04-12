@@ -12,6 +12,28 @@
 </div>
 </div>
 
+## 🎙 Multimedia Information Retrieval (MIR)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS 2025</div><img src='images/CIR-Survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A comprehensive survey on composed image retrieval](https://dl.acm.org/doi/full/10.1145/3767328) \\
+Xuemeng Song, Haoqiang Lin, Haokun Wen, Bohan Hou, **Mingzhu Xu***, Liqiang Nie
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOMM 2026</div><img src='images/REFINE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Refine: Composed video retrieval via shared and differential semantics enhancement](https://dl.acm.org/doi/abs/10.1145/3796712) \\
+Yupeng Hu, Zixu Li, Zhiwei Chen, Qinlei Huang, Zhiheng Fu, **Mingzhu Xu***, Liqiang Nie
+
+</div>
+</div>
+
+- `IJCNN 2025` [Pseudo Triplet Guided Few-shot Composed Image Retrieval](https://ieeexplore.ieee.org/abstract/document/11228450), Bohan Hou, Haoqiang Lin, Haokun Wen, Meng Liu, **Mingzhu Xu***, Xuemeng Song*
+- `ESWA 2025` [Dual-space relation-aware entity representation learning for personalized compatibility modeling](https://www.sciencedirect.com/science/article/abs/pii/S0957417425030441), Jinhuan Liu, Xu Cui, Xuemeng Song*, Yanwei Yu, **Mingzhu Xu***, Junwei Du
+
 ## 🎙 Optical Remote Sensing Image Salient Object Detection (ORSI-SOD) & Infrared Small Target Detection (IRSTD)
 
 
