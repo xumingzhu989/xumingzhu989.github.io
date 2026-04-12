@@ -1,5 +1,17 @@
 
 # 📝 Publications 
+## 🎙 Referring Image Segmentation
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/CMIRNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CMIRNet: Cross-Modal Interactive Reasoning Network for Referring Image Segmentation](https://ieeexplore.ieee.org/document/10771801) \\
+**Mingzhu Xu**, Tianxiang Xiao, Yutong Liu, Haoyu Tang, Yupeng Hu, and Liqiang Nie.
+
+[![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code)](https://github.com/iLearn-Lab/TCSVT25-CMIRNet) 
+</div>
+</div>
+
 ## 🎙 ORSI-SOD & IRSTD
 
 
@@ -30,6 +42,16 @@
 Yutong Liu, **Mingzhu Xu***, Tianxiang Xiao, Haoyu Tang, Yupeng Hu, and Liqiang Nie.
 
 [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code)](https://github.com/iLearn-Lab/TGRS24-HFCNet) 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/AESINet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Adaptive Edge-aware Semantic Interaction Network for Salient Object Detection in Optical Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/10198281) \\
+Xiangyu Zeng, **Mingzhu Xu***, Yijun Hu, Haoyu Tang, Yupeng Hu, and Liqiang Nie.
+
+[![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code)](https://github.com/iLearn-Lab/TGRS23-AESINet) 
 </div>
 </div>
 
