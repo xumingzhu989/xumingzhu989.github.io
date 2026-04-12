@@ -12,8 +12,11 @@
 </div>
 </div>
 
+> [!TIP]
+> 这里是提示内容
 
-> [!ICME 2024] [Two-Stage Information Bottleneck For Temporal Language Grounding](https://ieeexplore.ieee.org/abstract/document/10687358), Haoyu Tang, Shuaike Zhang, Ming Yan, Ji Zhang, **Mingzhu Xu***, Yupeng Hu*, Liqiang Nie.
+> [!ICME 2024]
+> [Two-Stage Information Bottleneck For Temporal Language Grounding](https://ieeexplore.ieee.org/abstract/document/10687358), Haoyu Tang, Shuaike Zhang, Ming Yan, Ji Zhang, **Mingzhu Xu***, Yupeng Hu*, Liqiang Nie.
 
 - > [!ICME 2024] [Two-Stage Information Bottleneck For Temporal Language Grounding](https://ieeexplore.ieee.org/abstract/document/10687358), Haoyu Tang, Shuaike Zhang, Ming Yan, Ji Zhang, **Mingzhu Xu***, Yupeng Hu*, Liqiang Nie.
 
