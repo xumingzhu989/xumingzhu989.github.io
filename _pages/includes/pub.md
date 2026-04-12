@@ -77,7 +77,10 @@ Xiangyu Zeng, **Mingzhu Xu***, Yijun Hu, Haoyu Tang, Yupeng Hu, and Liqiang Nie.
 </div>
 </div>
 
-- `ACL Findings 2025` [Chain-Talker: Chain Understanding and Rendering for Empathetic Conversational Speech Synthesis](https://aclanthology.org/2025.findings-acl.101/), Yifan Hu, Rui Liu, **Yi Ren**, Xiang Yin, Haizhou Li
+- `TIP 2021` [Chain-Talker: Multi-Stream Attention-Aware Graph Convolution Network for Video Salient Object Detection](https://ieeexplore.ieee.org/document/9397307), **Mingzhu Xu**, Ping Fu, Bing Liu, Junbao Li.
+- `TCSVT 2020` [Chain-Talker: Video Salient Object Detection via Robust Seeds Extraction and Multi-graphs Manifold Propagation](https://ieeexplore.ieee.org/document/8730352), **Mingzhu Xu**, Bing Liu, Ping Fu, Junbao Li, Yu Hen Hu, Shou Feng.
+- `TMM 2019` [Chain-Talker: Video Saliency Detection via Graph Clustering With Motion Energy and Spatiotemporal Objectness](https://ieeexplore.ieee.org/document/8705313), **Mingzhu Xu**, Bing Liu, Ping Fu, Junbao Li, Yu Hen Hu.
+
 - `arXiv 2025` [MegaTTS 3: Sparse Alignment Enhanced Latent Diffusion Transformer for Zero-Shot Speech Synthesis](https://arxiv.org/abs/2502.18924), Ziyue Jiang, **Yi Ren**, et al.
 - `ACM-MM 2024` [Generative Expressive Conversational Speech Synthesis](https://dl.acm.org/doi/abs/10.1145/3664647.3681697), Rui Liu, Yifan Hu, **Yi Ren**, Xiang Yin, Haizhou Li
 - `AAAI 2024` [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head](https://arxiv.org/abs/2304.06802), Rongjie Huang, Mingze Li, Dongchao Yang, Jiatong Shi, Xuankai Chang, Zhenhui Ye, Yuning Wu, Zhiqing Hong, Jiawei Huang, Jinglin Liu, **Yi Ren**, Zhou Zhao, Shuicheng Yan
