@@ -12,7 +12,7 @@
 </div>
 </div>
 
-## 🎙 ORSI-SOD & IRSTD
+## 🎙 ORSI-SOD &amp IRSTD
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCYB 2025</div><img src='images/CMNFNet.png' alt="sym" width="100%"></div></div>
@@ -55,7 +55,7 @@ Xiangyu Zeng, **Mingzhu Xu***, Yijun Hu, Haoyu Tang, Yupeng Hu, and Liqiang Nie.
 </div>
 </div>
 
-## 🎙 Superpixel Segmentation & semantic segmentation
+## 🎙 Superpixel Segmentation &amp semantic segmentation
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/CMIRNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
