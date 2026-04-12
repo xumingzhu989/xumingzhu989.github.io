@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mingzhu Xu"
-description              : "XXX. "
+description              : "Focusing on cross-modal image-video segmentation and multimodal visual content understanding."
 repository               : "xumingzhu989/xumingzhu989.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Mingzhu Xu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Shandong University"
+  bio              : "School of Software, Shandong University"
   location         : "Jinan, China"
   employer         :
   pubmed           : 
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "xumingzhu989"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  dblp             : "https://dblp.org/pid/17/8230.html"
+  orcid            : "https://orcid.org/0000-0002-1492-0970"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
