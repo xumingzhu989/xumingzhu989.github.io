@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-## 🎙 Referring Expression/Image Segmentation (RES/RIS)
+## 🎙 Referring Expression Segmentation/Grounding (RES/REG)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/CMIRNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -38,7 +38,7 @@ Yupeng Hu, Zixu Li, Zhiwei Chen, Qinlei Huang, Zhiheng Fu, **Mingzhu Xu***, Liqi
 - `IJCNN 2025` [Pseudo Triplet Guided Few-shot Composed Image Retrieval](https://ieeexplore.ieee.org/abstract/document/11228450), Bohan Hou, Haoqiang Lin, Haokun Wen, Meng Liu, **Mingzhu Xu***, Xuemeng Song*
 - `ESWA 2025` [Dual-space relation-aware entity representation learning for personalized compatibility modeling](https://www.sciencedirect.com/science/article/abs/pii/S0957417425030441), Jinhuan Liu, Xu Cui, Xuemeng Song*, Yanwei Yu, **Mingzhu Xu***, Junwei Du
 
-## 🎙 Optical Remote Sensing Image Salient Object Detection (ORSI-SOD) & Infrared Small Target Detection (IRSTD)
+## 🎙 Optical Remote Sensing Image Salient Object Detection (ORSI-SOD) & InfRared Small Target Detection (IRSTD)
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCYB 2025</div><img src='images/CMNFNet.png' alt="sym" width="100%"></div></div>
@@ -92,7 +92,7 @@ Lina Gao, Bing Liu, Ping Fu, **Mingzhu Xu**.
 </div>
 </div>
 
-## 🎙 Superpixel Segmentation & semantic segmentation
+## 🎙 Superpixel Segmentation & Semantic Segmentation (SS)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/ELGANet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
