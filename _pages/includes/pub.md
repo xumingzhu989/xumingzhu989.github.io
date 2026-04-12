@@ -111,7 +111,7 @@ Lina Gao, Bing Liu, Ping Fu, **Mingzhu Xu**.
 </div>
 
 ## 🎙 Natural Scenes – Single-Model / Multimodal Salient Object Detection (SOD)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMR 2025</div><img src='images/UMINet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVC 2023</div><img src='images/UMINet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [UMINet: a unified multi-modality interaction network for RGB-D and RGB-T salient object detection](https://link.springer.com/article/10.1007/s00371-023-02870-6) \\
