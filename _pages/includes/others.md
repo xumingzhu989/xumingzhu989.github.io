@@ -11,4 +11,3 @@
 
 # 💬 Invited Talks
 
-# 🇨🇳 Chinese Version
