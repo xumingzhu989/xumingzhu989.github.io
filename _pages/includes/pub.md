@@ -13,7 +13,7 @@
 </div>
 
 - <span class="badge">`TPAMI 2025`</span>[Two-Stage Information Bottleneck For Temporal Language Grounding](https://ieeexplore.ieee.org/abstract/document/10687358), Haoyu Tang, Shuaike Zhang, Ming Yan, Ji Zhang, **Mingzhu Xu***, Yupeng Hu*, Liqiang Nie.
-- <span class="badge">`TPAMI 2025`</span>
+- <span class="badge">`TPAMI 2025`</span><br>
 [Two-Stage Information Bottleneck For Temporal Language Grounding](https://ieeexplore.ieee.org/abstract/document/10687358), Haoyu Tang, Shuaike Zhang, Ming Yan, Ji Zhang, **Mingzhu Xu***, Yupeng Hu*, Liqiang Nie.
 - <span class="badge">`TPAMI 2025`</span>&nbsp;
 [Two-Stage Information Bottleneck For Temporal Language Grounding](https://ieeexplore.ieee.org/abstract/document/10687358), Haoyu Tang, Shuaike Zhang, Ming Yan, Ji Zhang, **Mingzhu Xu***, Yupeng Hu*, Liqiang Nie.
