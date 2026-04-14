@@ -11,11 +11,10 @@
 
 # 💬 Invited Talks
 
+
+
 ## 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=xumingzhu989&style=flat-square)
 
-## 📊 Visitor Stats
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/xumingzhu989)
-
-## 🌍 Visitors by Country
-![Visitors](https://github-visitor-counter.vercel.app/api?username=xumingzhu989&displayMode=topCountries&columns=4&maxflags=12)
+## 🌍 Visitor Map
+![Visitor Map](https://clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=n&d=AcyS8rTkJFYTfIbONXqLOYbx3y4fqYXyRZu2Q3oay-0)
