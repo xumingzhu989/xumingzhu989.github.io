@@ -18,14 +18,3 @@
 
 ## 🌍 Visitor Map
 ![Visitor Map](https://clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=n&d=AcyS8rTkJFYTfIbONXqLOYbx3y4fqYXyRZu2Q3oay-0)
-
-
-### 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xumingzhu989&style=flat-square"/>
-</p>
-
-### 🌍 Global Visitors
-<p align="center">
-  <img src="https://clustrmaps.com/map_v2.png?cl=ffffff&w=500&t=n&d=AcyS8rTkJFYTfIbONXqLOYbx3y4fqYXyRZu2Q3oay-0"/>
-</p>
