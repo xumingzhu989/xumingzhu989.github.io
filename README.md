@@ -71,4 +71,4 @@ Some examples:
 - AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
 - AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
 
-![Visitors](https://github-visitor-counter.vercel.app/api?username=你的用户名&label=Visitors&countColor=%23263759&style=flat)
+![Visitors](https://github-visitor-counter.vercel.app/api?username=xumingzhu989&label=Visitors&countColor=%23263759&style=flat)
