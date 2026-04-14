@@ -21,7 +21,7 @@
 
 
 ### 👀 Profile Views
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=xumingzhu989&style=flat-square"/>
 </p>
 
