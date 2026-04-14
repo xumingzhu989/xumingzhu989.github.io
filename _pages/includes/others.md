@@ -17,5 +17,4 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=xumingzhu989&style=flat-square)
 
 ## 🌍 Visitor Map
-![Visitor Map](https://clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=n&d=AcyS8rTkJFYTfIbONXqLOYbx3y4fqYXyRZu2Q3oay-0)
 <a href='https://clustrmaps.com/site/1c9qg'><img src='https://clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=n&d=AcyS8rTkJFYTfIbONXqLOYbx3y4fqYXyRZu2Q3oay-0'></a>)
