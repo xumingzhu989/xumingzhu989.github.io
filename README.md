@@ -71,11 +71,3 @@ Some examples:
 - AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
 - AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
 
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=xumingzhu989&style=flat-square)
-
-## 📊 Visitor Stats
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/xumingzhu989)
-
-## 🌍 Visitors by Country
-![Visitors](https://github-visitor-counter.vercel.app/api?username=xumingzhu989&displayMode=topCountries&columns=4&maxflags=12)
