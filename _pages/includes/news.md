@@ -1,5 +1,7 @@
 # 🔥 News
-- **2026.04**: 🎉🎉🎉 A paper on salient object detection has been accepted by IEEE Transactions on Instrumentation and Measurement (IEEE TIM).
+- **2026.04**: 🎉🎉🎉 One paper on Salient Object Detection has been accepted by IEEE Transactions on Instrumentation and Measurement (IEEE TIM), and one paper on Egocentric Action Recognition has been accepted by ICMR'26.
+
+- **2026.01**: 🎉🎉🎉 One paper on Composed video retrieval has been accepted by ACM Transactions on Multimedia Computing, Communications and Applications (ACM TOMM).
 
 - **2025.10**: We are organizing a Special Issue titled “Advances in Deep Learning for Open-World Computer Vision and Pattern Recognition” in Electronics (SCI, IF = 2.6). Submissions are welcome [link](https://www.mdpi.com/journal/electronics/special_issues/HPS3G94E1N).
 
