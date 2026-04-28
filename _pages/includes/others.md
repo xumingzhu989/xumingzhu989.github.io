@@ -10,7 +10,7 @@
 - 🏛️ **Conference Service:** Session Chair, Area Chair, ...
 
 # 💬 Invited Talks
-
+- ⚖️ **2026.04**: 计算机视觉感知与理解前沿报告会【CCF-CV走进高校系列报告会@苏州科技大学】[video](https://www.koushare.com/live/details/51883)
 
 
 
