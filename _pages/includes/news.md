@@ -1,4 +1,6 @@
 # 🔥 News
+- **2026.07**: 🎉🎉🎉 Three papers on Infrared Small Target Detection and UAV-VLN have been accepted by ACM MM2026, and one paper on ORSI-SOD has been accepted by RemoteSensing.
+
 - **2026.04**: 🎉🎉🎉 One paper on Salient Object Detection has been accepted by IEEE Transactions on Instrumentation and Measurement (IEEE TIM), and one paper on Egocentric Action Recognition has been accepted by ICMR'26.
 
 - **2026.01**: 🎉🎉🎉 One paper on Composed video retrieval has been accepted by ACM Transactions on Multimedia Computing, Communications and Applications (ACM TOMM).
